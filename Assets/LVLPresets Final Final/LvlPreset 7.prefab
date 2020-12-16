@@ -88,7 +88,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LvlAnimator: {fileID: 2547723043362592877}
   Direction: 1
-  QuestImage: {fileID: 21300000, guid: 54f54db7743ab9248aa0c30403f34b1e, type: 3}
+  QuestImage: {fileID: 21300000, guid: 56cad40824801224682e9f96513983f7, type: 3}
   BackgroundColorForIntro: {r: 1, g: 1, b: 1, a: 1}
   LenghtOfAnimation: 0.4
 --- !u!1001 &1305605913653678781
